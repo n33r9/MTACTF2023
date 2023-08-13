@@ -1,0 +1,6 @@
+After you find the weak password, your next challenge is to find the stronger password in the flag.zip file. Specifically, that password is made according to 4 requirements as follows:
+1. Your password must include a number (1-6)
+2. Your password must include an uppercase letter (A-O)
+3. Your password must include a special character (one of the special characters !@#$)
+4. The digits in your password must add up to 25.
+Based on the above requirements, find a password that meets all four of the above in the passwordlists.txt file to enter the flag.zip file to get the flag.
